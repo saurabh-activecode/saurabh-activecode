@@ -1,7 +1,7 @@
 
 👋 Hey, I’m Saurabh
 ---
-I’m a **Associate Principal Engineer** at CareerBuilder | Monster, working at the intersection of scalability, performance, and product impact.
+I’m an **Associate Principal Engineer** at CareerBuilder | Monster, working at the intersection of scalability, performance, and product impact.
 
 After **15+ years** of building systems with **Ruby on Rails, React, and AWS**, I’ve learned that great engineering isn’t just about clean code — it’s about clarity, ownership, and teamwork.
 
