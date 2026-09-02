@@ -1,4 +1,3 @@
-
 👋 Hey, I’m Saurabh
 ---
 I’m an **Associate Principal Engineer** at CareerBuilder | Monster, working at the intersection of scalability, performance, and product impact.
@@ -6,6 +5,10 @@ I’m an **Associate Principal Engineer** at CareerBuilder | Monster, working at
 After **15+ years** of building systems with **Ruby on Rails, React, and AWS**, I’ve learned that great engineering isn’t just about clean code — it’s about clarity, ownership, and teamwork.
 
 I still love writing code, debugging deep production issues, and shipping things that actually make users’ lives easier.
+***
+**📦 Open Source & Projects**
+
+- **Creator of [active_record-undo](https://rubygems.org/gems/active_record-undo)** — A lightweight Ruby gem that provides seamless undo and redo capabilities for ActiveRecord models, making it simple to track, rollback, and manage state transitions cleanly in Rails applications.
 ***
 **🧭 How I Work**
 
@@ -36,6 +39,8 @@ I don’t have all the answers — but I’m committed to learning, iterating, a
 If you’ve got feedback for me, I genuinely welcome it. It’s the fastest way I know to get better.
 ***
 **🌐 Links**
+
+RubyGems → https://rubygems.org/gems/active_record-undo
 
 Portfolio → https://saurabh.activecode.in
 
